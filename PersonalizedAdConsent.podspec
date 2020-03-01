@@ -13,7 +13,7 @@
     "ios": "7.0"
   },
   "source": {
-    "git": "https://github.com/googleads/googleads-consent-sdk-ios.git",
+    "git": "https://github.com/9gag-open-source/googleads-consent-sdk-ios.git",
     "tag": "v1.0.5"
   },
   "source_files": "PersonalizedAdConsent/**/*.{h,m}",
